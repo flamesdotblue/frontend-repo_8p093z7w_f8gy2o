@@ -12,22 +12,22 @@ export default function Hero() {
       <div className="mx-auto grid max-w-7xl grid-cols-1 items-center gap-10 px-4 sm:px-6 lg:grid-cols-2 lg:gap-14 lg:px-8">
         <div className="relative z-10">
           <div className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/50 px-3 py-1 text-xs font-medium text-slate-700 backdrop-blur">
-            <span className="inline-block h-2 w-2 rounded-full bg-gradient-to-r from-blue-500 to-cyan-400" />
-            Introducing a new era of fintech infrastructure
+            <span className="inline-block h-2 w-2 rounded-full bg-gradient-to-r from-cyan-500 to-blue-500" />
+            Kerala's trusted water purification specialist
           </div>
           <h1 className="mt-5 text-4xl font-semibold tracking-tight text-slate-900 sm:text-6xl">
-            Fluid, secure, and beautifully crafted payments
+            Pure, healthy water for every home and business
           </h1>
           <p className="mt-4 max-w-xl text-base/7 text-slate-600 sm:text-lg/8">
-            Bring your vision to life with a glassmorphic, 3D-first experience. Modern APIs, robust security, and a design system that feels hand‑made.
+            We design, install, and maintain advanced RO, UV, and whole‑house filtration systems tailored for Kerala’s water conditions—delivering safe, great‑tasting water every day.
           </p>
           <div className="mt-8 flex flex-wrap items-center gap-3">
-            <a href="#features" className="group inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-blue-600 to-cyan-500 px-6 py-3 text-white shadow-lg shadow-blue-600/30">
-              Explore Features
+            <a href="#solutions" className="group inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-cyan-600 to-blue-600 px-6 py-3 text-white shadow-lg shadow-cyan-600/30">
+              Explore Solutions
               <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
             </a>
             <a href="#contact" className="rounded-full border border-slate-300/60 bg-white/70 px-6 py-3 text-slate-700 backdrop-blur hover:border-slate-400">
-              Talk to us
+              Book a free water test
             </a>
           </div>
         </div>
